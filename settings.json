@@ -1,0 +1,15 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.fontSize": 18,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveTimeout": 7500,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "explorer.sortOrder": "type",
+    "git.autofetch": true,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "ayu",
+    "python.linting.flake8Enabled": true
+}
