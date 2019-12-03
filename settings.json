@@ -9,7 +9,6 @@
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "explorer.sortOrder": "type",
     "git.autofetch": true,
-    "workbench.iconTheme": "ayu",
     "workbench.colorTheme": "Night Owl",
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
