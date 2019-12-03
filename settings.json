@@ -10,7 +10,7 @@
     "explorer.sortOrder": "type",
     "git.autofetch": true,
     "workbench.iconTheme": "ayu",
-    "workbench.colorTheme": "Ayu Mirage",
+    "workbench.colorTheme": "Night Owl",
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
