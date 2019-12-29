@@ -1,11 +1,11 @@
 // Place your key bindings in this file to override the defaultsauto[]
 [
     {
-        "key": "c c",
+        "key": "ctrl+alt+z",
         "command": "workbench.action.terminal.kill"
     },
     {
-        "key": "b b",
+        "key": "ctrl+alt+x",
         "command": "python.execInTerminal"
     }
 ]
