@@ -17,5 +17,8 @@
     ],
     "window.zoomLevel": 0,
     "workbench.colorTheme": "Night Owl",
-    "terminal.integrated.rendererType": "dom"
+    "terminal.integrated.rendererType": "dom",
+    "explorer.confirmDelete": false,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.executeInFileDir": true
 }
