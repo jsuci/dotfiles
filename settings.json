@@ -16,7 +16,7 @@
         "--ignore=F841, W503"
     ],
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Night Owl",
+    "workbench.colorTheme": "Material Theme Ocean",
     "terminal.integrated.rendererType": "dom",
     "explorer.confirmDelete": false,
     "python.terminal.activateEnvInCurrentTerminal": true,
