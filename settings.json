@@ -20,5 +20,7 @@
     "terminal.integrated.rendererType": "dom",
     "explorer.confirmDelete": false,
     "python.terminal.activateEnvInCurrentTerminal": true,
-    "python.terminal.executeInFileDir": true
+    "python.terminal.executeInFileDir": true,
+    "python.languageServer": "Microsoft",
+    "files.autoSave": "afterDelay"
 }
