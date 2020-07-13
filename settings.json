@@ -16,7 +16,7 @@
         "--ignore=F841, W503"
     ],
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Material Theme Ocean",
+    "workbench.colorTheme": "Mayukai Dark",
     "terminal.integrated.rendererType": "dom",
     "explorer.confirmDelete": false,
     "python.terminal.activateEnvInCurrentTerminal": true,
